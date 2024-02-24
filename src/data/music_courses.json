@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "slug": "intro-to-programming",
+      "description": "Learn the basics of programming with this comprehensive course.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "intro_to_programming.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Fundamentals",
+      "slug": "web-dev-fundamentals",
+      "description": "Explore the essential concepts of web development in this hands-on course.",
+      "price": 69.99,
+      "instructor": "Jane Doe",
+      "isFeatured": false,
+      "image": "web_dev_fundamentals.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Machine Learning Basics",
+      "slug": "ml-basics",
+      "description": "Dive into the foundations of machine learning and its applications.",
+      "price": 89.99,
+      "instructor": "Alex Johnson",
+      "isFeatured": true,
+      "image": "ml_basics.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Graphic Design Mastery",
+      "slug": "graphic-design-mastery",
+      "description": "Master the art of graphic design with this comprehensive course.",
+      "price": 79.99,
+      "instructor": "Emily Williams",
+      "isFeatured": false,
+      "image": "graphic_design_mastery.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "slug": "mobile-app-development",
+      "description": "Build mobile applications for iOS and Android platforms with this advanced course.",
+      "price": 99.99,
+      "instructor": "David Rodriguez",
+      "isFeatured": true,
+      "image": "mobile_app_development.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Data Science and Analytics",
+      "slug": "data-science-analytics",
+      "description": "Explore data science techniques and analytics tools in this in-depth course.",
+      "price": 79.99,
+      "instructor": "Sophie Brown",
+      "isFeatured": false,
+      "image": "data_science_analytics.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Digital Marketing Strategies",
+      "slug": "digital-marketing-strategies",
+      "description": "Learn effective digital marketing strategies for business growth and success.",
+      "price": 59.99,
+      "instructor": "Michael Turner",
+      "isFeatured": true,
+      "image": "digital_marketing_strategies.jpg"
+    }
+  ]
+}
