@@ -8,7 +8,7 @@
       "price": 49.99,
       "instructor": "John Smith",
       "isFeatured": true,
-      "image": "intro_to_programming.jpg"
+      "image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 69.99,
       "instructor": "Jane Doe",
       "isFeatured": false,
-      "image": "web_dev_fundamentals.jpg"
+      "image": "https://images.pexels.com/photos/16129877/pexels-photo-16129877/free-photo-of-open-laptop-web-design-development-on-bed.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 89.99,
       "instructor": "Alex Johnson",
       "isFeatured": true,
-      "image": "ml_basics.jpg"
+      "image": "https://images.pexels.com/photos/17483868/pexels-photo-17483868/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-machine-learning-is-inspired-by-neuroscience-and-the-human-brain-it-was-created-by-novoto-studio-as-par.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 79.99,
       "instructor": "Emily Williams",
       "isFeatured": false,
-      "image": "graphic_design_mastery.jpg"
+      "image": "https://images.pexels.com/photos/414974/pexels-photo-414974.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 99.99,
       "instructor": "David Rodriguez",
       "isFeatured": true,
-      "image": "mobile_app_development.jpg"
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       "id": 6,
@@ -58,17 +58,7 @@
       "price": 79.99,
       "instructor": "Sophie Brown",
       "isFeatured": false,
-      "image": "data_science_analytics.jpg"
-    },
-    {
-      "id": 7,
-      "title": "Digital Marketing Strategies",
-      "slug": "digital-marketing-strategies",
-      "description": "Learn effective digital marketing strategies for business growth and success.",
-      "price": 59.99,
-      "instructor": "Michael Turner",
-      "isFeatured": true,
-      "image": "digital_marketing_strategies.jpg"
+      "image": "https://images.pexels.com/photos/7567593/pexels-photo-7567593.jpeg?auto=compress&cs=tinysrgb&w=400"
     }
   ]
 }
